@@ -38,7 +38,7 @@ The Excel workbook includes the following sheets:
 
 ## 📈 Chart: Internal vs External Hiring Cost
 
-![Hiring Cost Comparison](images/chart.png)
+![Hiring Cost Comparison](images/Chart.png)
 
 *This chart shows a clear cost gap between external and internal hiring.*
 
